@@ -1,0 +1,15 @@
+state={
+	id=797
+	name="STATE_797"
+        history = {
+        owner = ENG
+        add_core_of = ISR
+        add_core_of = PAL
+}
+	provinces={
+		1065 1201 7107 
+	}
+	manpower=80035
+	buildings_max_level_factor=1.000
+	state_category = town
+}
